@@ -1,0 +1,7 @@
+Ques - Why is Java known as a platform independent language?
+Ans - 
+	Java  is a platform independent language because it follows the WORA rule means Write Once Run Anywhere.
+if a system have JDK installed in it then it defenately run .class file on it.
+JDK is must to run java program.
+Platform independent means if I write code on windows machine and compile it and runs the compiled code on Ubuntu machine then it works fine.
+

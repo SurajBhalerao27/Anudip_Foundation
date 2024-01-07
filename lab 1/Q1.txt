@@ -1,0 +1,5 @@
+Que- What is java?
+Ans - Java is a object oriented,Fast,Secure,Robust, simple, platform independent programming language.
+It is developed by james gosling with his team in 1995, under 'Sun Lab' .
+It is most popular and widely used programming launguage among the world.
+Most of the aplication were built and operated on java. nearly over 3 billion and counting... 

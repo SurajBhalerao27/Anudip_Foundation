@@ -1,0 +1,9 @@
+Ques - What is full form of JVM ?  Explain it's architecture.
+Ans -  JVM stands for java virtual machine.
+
+human readable code first compile by the compiler (JIT) and convert it into byte code(Makes--  .class) file and then JVM reads and run this code line by line.
+
+JVM is a part of JRE and JRE is a part of JDK.
+
+JVM have method memory, Heap Memory, Stack Memory
+JVM have specific class loader. which loads the .class file in JVM.
